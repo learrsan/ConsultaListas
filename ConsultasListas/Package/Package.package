@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="e9634a0d-bdaa-44e1-854f-8bdd5625a390" solutionId="e9634a0d-bdaa-44e1-854f-8bdd5625a390" resetWebServer="false" sharePointProductVersion="15.0" name="ConsultasListas" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="ff85f756-046a-45bc-93c4-bfe280099541" />
+  </features>
+</package>
